@@ -1,0 +1,63 @@
+.items-list {
+  overflow-y: scroll;
+  width: 25vw;
+  height: 100vh;
+  list-style-type: none;
+}
+
+.button {
+  border-radius: 8px;
+  background-color: #dbeafe;
+  border: none;
+  height: 40px;
+  width: 80px;
+  margin: 10px;
+  font-size: 15px;
+  color: #334155;
+  font-family: 'Bree Serif';
+}
+
+.icon {
+  height: 15px;
+  width: 15px;
+  margin-right: 4px;
+}
+
+.content-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/nxt-slides/nxt-slides-bg.png');
+  height: 430px;
+  width: 550px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.card-head {
+  font-family: 'Bree Serif';
+  font-size: 28x;
+  color: #0967d2;
+}
+
+.card-para {
+  font-family: 'Bree Serif';
+  font-size: 20px;
+  color: #475569;
+}
+
+.main-container {
+  width: 100vw;
+  background-color: #f8fafc;
+}
+
+.content1 {
+  display: flex;
+  flex-direction: column;
+}
+
+.content2 {
+  display: flex;
+}

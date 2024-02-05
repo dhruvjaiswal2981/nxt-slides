@@ -1,0 +1,42 @@
+.item-head {
+  font-family: 'Bree Serif';
+  font-size: 20px;
+  color: #0967d2;
+}
+
+.item-para {
+  font-family: 'Bree Serif';
+  font-size: 15px;
+  color: #475569;
+}
+
+.card {
+  height: 160px;
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  border-radius: 10px;
+  margin: 10px;
+  background-color: #ffffff;
+}
+
+.item {
+  display: flex;
+}
+
+.number {
+  font-family: 'Bree Serif';
+  font-size: 18px;
+  color: #475569;
+  font-weight: 500;
+  padding-top: 5px;
+}
+
+.card-bg {
+  background-color: #dbeafe;
+  border-radius: 10px;
+  width: 25vw;
+}
